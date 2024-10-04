@@ -1,6 +1,6 @@
 # cryptomonitor
 
-Integrante:
+Integrantes:
 
 Guilherme Cardoso Barreiro - RM 94726 
 
