@@ -72,4 +72,6 @@ dependencies {
     implementation(libs.retrofit)
     implementation(libs.converter.gson)
     implementation(libs.androidx.activity.ktx)
+
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2")
 }
